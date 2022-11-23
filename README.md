@@ -1,4 +1,4 @@
-# Prework Study Guide Webpage https://halcyonlegion.github.io/prework-study-guide/prework-study-guide/
+# Prework Study Guide Webpage
 
 ## Description
 
